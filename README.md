@@ -8,6 +8,16 @@ The Bubbler Mobile App can scan Bubbler specific QR codes and the search on that
 
 Starting with the `http://bubbler.com` will have any other QR code scanner load the Bubbler web site so that the user can download and install the Bubbler app.
 
-QR Codes for testing with:
+##QR Codes for testing with:
+
+###@Bubbler
+
+!@Bubbler](http://qrfree.kaywa.com/?l=1&s=8&d=http%3A%2F%2Fbubbler.com%2F%23%40Bubbler)
+
+
+
+###dick@bubbler.com
+
+![md5 dick@bubbler.com](http://qrfree.kaywa.com/?l=1&s=8&d=http%3A%2F%2Fbubbler.com%2F%23a9e093a37ea61cd76ccdd76231888208)
 
 
