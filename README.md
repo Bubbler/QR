@@ -12,7 +12,7 @@ Starting with the `http://bubbler.com` will have any other QR code scanner load 
 
 ###@Bubbler
 
-!@Bubbler](http://qrfree.kaywa.com/?l=1&s=8&d=http%3A%2F%2Fbubbler.com%2F%23%40Bubbler)
+![@Bubbler](http://qrfree.kaywa.com/?l=1&s=8&d=http%3A%2F%2Fbubbler.com%2F%23%40Bubbler)
 
 
 
