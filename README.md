@@ -1,2 +1,13 @@
-# QR
-QR Code Specifications
+# QR Code Specications
+
+The Bubbler Mobile App can scan Bubbler specific QR codes and the search on that topic. The QR code is a URL that starts with `http://bubbler.com/#` and then has either a Twitter handle with the leading @ sign, or an md5 hash of an email address. eg.
+
+`http://bubbbler.com/#@bubbler` Bubbler's Twitter Handle
+
+`http://bubbler.com/#a9e093a37ea61cd76ccdd76231888208` md5 of dick@bubbler.com
+
+Starting with the `http://bubbler.com` will have any other QR code scanner load the Bubbler web site so that the user can download and install the Bubbler app.
+
+QR Codes for testing with:
+
+
