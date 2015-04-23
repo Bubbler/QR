@@ -28,7 +28,10 @@ Starting with the `http://bubbler.com/#` will have any other QR code scanner loa
 
 ![bubbler.com](http://qrfree.kaywa.com/?l=1&s=8&d=http%3A%2F%2Fbubbler.com%2F)
 
-###http://bubbler.com/
+###@Werner/
 
 ![@werner](http://qrfree.kaywa.com/?l=1&s=8&d=http%3A%2F%2Fbubbler.com%2F%23%40Werner)
 
+###@@Boris/
+
+![@Boris](http://qrfree.kaywa.com/?l=1&s=8&d=http%3A%2F%2Fbubbler.com%2F%23%40Boris)
